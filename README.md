@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Renato Filipi!
+# 👋 Olá, me chamo Renato Filipi!
 
 ### Full Stack Developer
 
