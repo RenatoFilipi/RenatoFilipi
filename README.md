@@ -6,7 +6,7 @@ Desenvolvedor apaixonado por tecnologia, construindo soluções robustas e elega
 
 ---
 
-## 🚀 Tecnologias que domino:
+## 🚀 Tecnologias:
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
