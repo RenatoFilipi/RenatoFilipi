@@ -24,8 +24,7 @@ Atualmente, estou trabalhando em um micro SaaS, explorando novas formas de otimi
 ## 📚 Atualmente aprendendo  
 
 - **Arquitetura de APIs:** melhores práticas para escalabilidade, segurança e eficiência.  
-- **Cloud Computing:** soluções serverless, escalabilidade e integração contínua.  
-- **SaaS & Monetização:** estratégias de pricing, modelos de assinatura e experiência do usuário.  
+- **Cloud Computing:** soluções serverless, escalabilidade e integração contínua.
 
 ---
 
