@@ -1,4 +1,4 @@
-# Renato Filipi!  
+# Renato Filipi
 
 ### 💻 Full Stack Developer  
 
