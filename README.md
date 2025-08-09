@@ -21,13 +21,6 @@ Atualmente, estou trabalhando em um micro SaaS, explorando novas formas de otimi
 
 ---
 
-## 📚 Atualmente aprendendo  
-
-- **Arquitetura de APIs:** melhores práticas para escalabilidade, segurança e eficiência.  
-- **Cloud Computing:** soluções serverless, escalabilidade e integração contínua.
-
----
-
 ## 📬 Entre em contato  
 
 📌 [LinkedIn](https://www.linkedin.com/in/renato-rosa-61277b138/)  
