@@ -6,8 +6,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando construir soluç
 
 Atualmente, estou trabalhando em um micro SaaS, explorando novas formas de otimizar experiências digitais e impulsionar negócios com tecnologia. 🚀  
 
----
-
 ## 🛠️ Tecnologias & Ferramentas  
 
 **Frontend:**  
@@ -18,8 +16,6 @@ Atualmente, estou trabalhando em um micro SaaS, explorando novas formas de otimi
 
 **Cloud & DevOps:**  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-
----
 
 ## 📬 Entre em contato  
 
