@@ -2,9 +2,9 @@
 
 ### 💻 Full Stack Developer  
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando construir soluções robustas, escaláveis e eficientes para a web. Meu foco está na criação de aplicações performáticas utilizando tecnologias modernas e boas práticas de desenvolvimento.  
+I am a developer passionate about technology, always seeking to build robust, scalable, and efficient solutions for the web. My focus is on creating high-performance applications using modern technologies and best development practices.
 
-Atualmente, estou trabalhando em um micro SaaS, explorando novas formas de otimizar experiências digitais e impulsionar negócios com tecnologia. 🚀  
+Currently, I am working on a micro SaaS, exploring new ways to optimize digital experiences and drive business growth with technology. 🚀
 
 ## 🛠️ Tecnologias & Ferramentas  
 
