@@ -4,8 +4,6 @@
 
 I am a developer passionate about technology, always seeking to build robust, scalable, and efficient solutions for the web. My focus is on creating high-performance applications using modern technologies and best development practices.
 
-Currently, I am working on a micro SaaS, exploring new ways to optimize digital experiences and drive business growth with technology. 🚀
-
 🛠️ Technologies & Tools
 
 **Frontend:**  
